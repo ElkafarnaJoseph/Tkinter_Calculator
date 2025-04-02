@@ -28,10 +28,10 @@ The calculator uses a 4x4 grid layout:
 **Calculation Logic**
 When the equals button is pressed:
 
-1.The application retrieves the expression from the display
-2.Validates that it contains only valid characters
-3.Calculates the result using Python's eval() function
-4.Displays the result or an error message if applicable
+ 1. The application retrieves the expression from the display
+ 2. Validates that it contains only valid characters
+ 3. Calculates the result using Python's eval() function
+ 4. Displays the result or an error message if applicable
 
 **Code Structure**
 
